@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Style Guide Guide
-description: A boilerplate for creating superb style guides
+title: Storyblocks Design System 
+description: Our design system helps us work together to build a great experience for our users. 
 ---
 
-The storyblocks team rock The homepage of a style guide should provide high-level information around what the design system is, what benefits it provides, who it's for, and how to get started with it. Like any good index page, it should provide clear navigation to key parts of the website.
+The Storyblocks Design System includes the resources to create user interfaces consistent with our principles, design language, and best practices.
 
-<div class="u-margin-bottom-double"><a href="{{ "/getting-started.html" | prepend: site.baseurl }}" class="c-btn">Get Started</a></div>
+<div class="u-margin-bottom-double"><a href="{{ "/getting-started.html" | prepend: site.baseurl }}" class="c-btn">Explore</a></div>
 
 ## Design System Benefits
 Explain how the design system benefits users and the business. For inspiration, check out over 180 examples of design systems at [Styleguides.io](http://styleguides.io/examples).
