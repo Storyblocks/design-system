@@ -1,16 +1,23 @@
 ---
 layout: page
-title: Storyblocks Design System 
-description: Our design system helps us work together to build a great experience for our users. 
+title: Welcome  
+description: Our design system helps us work together to build great user experiences.
 ---
 
-The Storyblocks Design System includes the resources to create user interfaces consistent with our principles, design language, and best practices.
+This site aims to provide everything you need to get up to speed quickly when designing for Storyblocks. In this site you will find documentation for HTML/CSS components, React components, design assets, and usage guidelines. This site currently focuses on all things related to the design of our products.
+
+## Contents
+
+### Base styles
+Guidelines around global color palettes, typography, iconography, and a general-purpose 12-column grid.
+
+### Components
+Core components that are included in all of our products.
+
+### Content
+Overall guidelines on writing content in our tone and voice.
+
+### Resources
+Download our logos and visual style guide. 
 
 <div class="u-margin-bottom-double"><a href="{{ "/getting-started.html" | prepend: site.baseurl }}" class="c-btn">Explore</a></div>
-
-## Design System Benefits
-Explain how the design system benefits users and the business. For inspiration, check out over 180 examples of design systems at [Styleguides.io](http://styleguides.io/examples).
-tivizes teams to use the system, and shows components in the wild.
-
-## Contributing info
-If it's desirable to have people from across the organization contribute to the design system, linking to the <a href="{{ "/contributing.html" | prepend: site.baseurl }}">contributing page</a> from the homepage could be a good idea.
