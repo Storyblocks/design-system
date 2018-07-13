@@ -8,16 +8,16 @@ This site aims to provide everything you need to get up to speed quickly when de
 
 ## Contents
 
-#### Base styles
+### Base styles
 Guidelines around global color palettes, typography, iconography, and a general-purpose 12-column grid.
 
-#### Components
+### Components
 The core components that are included in all of our products.
 
-#### Content
+### Content
 Overall guidelines on writing content in our tone and voice.
 
-#### Resources
+### Resources
 Download our logos and visual style guide.
 
 <div class="u-margin-bottom-double"><a href="{{ "/design-principles.html" | prepend: site.baseurl }}" class="c-btn">Explore</a></div>
