@@ -29,6 +29,6 @@ collections:
 branding:
   logo_path: '/assets/logo.svg'
   navigation_background_color: '#ffffff'
-  navigation_link_color: '#FFE121'
+  navigation_link_color: '#666666'
   navigation_link_color_hover: 'gray'
   main_background_color: '#F5F5F5'
