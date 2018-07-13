@@ -10,6 +10,6 @@ button, input[type=submit] {
 	cursor: pointer;
 
 	&:focus {
-		outline: 1px solid $$color-yellow:;
+		outline: 1px solid $color-yellow:;
 	}
 }
