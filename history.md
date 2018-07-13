@@ -5,4 +5,5 @@ title: Release history
 url: /history.html
 ---
 
-Release notes go here
+V. 1.0
+Date: October
