@@ -12,12 +12,12 @@ This site aims to provide everything you need to get up to speed quickly when de
 Guidelines around global color palettes, typography, iconography, and a general-purpose 12-column grid.
 
 ### Components
-Core components that are included in all of our products.
+The core components that are included in all of our products.
 
 ### Content
 Overall guidelines on writing content in our tone and voice.
 
 ### Resources
-Download our logos and visual style guide. 
+Download our logos and visual style guide.
 
 <div class="u-margin-bottom-double"><a href="{{ "/getting-started.html" | prepend: site.baseurl }}" class="c-btn">Explore</a></div>

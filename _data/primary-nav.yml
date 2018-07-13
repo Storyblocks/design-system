@@ -1,29 +1,23 @@
-- title: Introduction
+- title: Welcome
   url: /
 
-- title: Test
+- title: Design Principles
   url: /my-first-page.html
 
-- title: Guidelines
-  group: guidelines
-
-- title: Styles
+- title: Base Styles
   group: styles
 
 - title: Components
   group: components
 
-- title: Utilities
-  group: utilities
-
-- title: Page templates
-  group: page-templates
-
 - title: Downloads
   url: /downloads.html
 
-- title: Support
-  url: /support.html
+- title: Content
+  group: guidelines
+
+- title: Page templates
+  group: page-templates
 
 - title: Contribute
   url: /contribute.html
