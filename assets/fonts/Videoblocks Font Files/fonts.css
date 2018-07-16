@@ -1,0 +1,80 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Mark Simonson Studio
+ * License URL: https://www.fontspring.com/licenses/mark-simonson-studio/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'proxima nova';
+    src: url('proximanova-light-webfont.eot');
+    src: url('proximanova-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('proximanova-light-webfont.woff2') format('woff2'),
+         url('proximanova-light-webfont.woff') format('woff'),
+         url('proximanova-light-webfont.ttf') format('truetype'),
+         url('proximanova-light-webfont.svg#proxima_novalight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima nova';
+    src: url('proximanova-regular-webfont.eot');
+    src: url('proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('proximanova-regular-webfont.woff2') format('woff2'),
+         url('proximanova-regular-webfont.woff') format('woff'),
+         url('proximanova-regular-webfont.ttf') format('truetype'),
+         url('proximanova-regular-webfont.svg#proxima_novaregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima nova';
+    src: url('proximanova-medium-webfont.eot');
+    src: url('proximanova-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('proximanova-medium-webfont.woff2') format('woff2'),
+         url('proximanova-medium-webfont.woff') format('woff'),
+         url('proximanova-medium-webfont.ttf') format('truetype'),
+         url('proximanova-medium-webfont.svg#proxima_novamedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+        font-family: 'proxima nova';
+    src: url('proximanova-semibold-webfont.eot');
+    src: url('proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('proximanova-semibold-webfont.woff2') format('woff2'),
+         url('proximanova-semibold-webfont.woff') format('woff'),
+         url('proximanova-semibold-webfont.ttf') format('truetype'),
+         url('proximanova-semibold-webfont.svg#proxima_novasemibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+        font-family: 'proxima nova';
+    src: url('proximanova-bold-webfont.eot');
+    src: url('proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('proximanova-bold-webfont.woff2') format('woff2'),
+         url('proximanova-bold-webfont.woff') format('woff'),
+         url('proximanova-bold-webfont.ttf') format('truetype'),
+         url('proximanova-bold-webfont.svg#proxima_novabold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
