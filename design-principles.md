@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My First Page
-description: The description of page.
+title: Design Principles
+description: Our checklist for adding new functionality to our product.  
 ---
 
 ## Heading
