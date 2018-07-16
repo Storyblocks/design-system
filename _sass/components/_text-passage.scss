@@ -15,7 +15,7 @@
 	 * Link within the text passage
 	 */
 	a:not(.c-btn) {
-		color: $color-gray-50;
+		color: $color-yellow;
         text-decoration: underline;
 
 		&:hover, &:focus {
@@ -38,6 +38,8 @@
 	  */
 	 h1 {
 		 margin-bottom: 1rem;
+		 color: $color-black;
+		 color: $color-black;
 	 }
 
 	/**
@@ -45,7 +47,7 @@
 	 */
 	h2 {
 		margin: 2rem 0 0.5rem;
-		color: $color-gray-73;
+		color: $color-black;
 		font-weight: bold;
 	}
 
@@ -54,6 +56,7 @@
 	 */
 	h3 {
 		margin: 1rem 0 1rem;
+		color: $color-black;
 	}
 
 	/**
@@ -61,6 +64,7 @@
 	 */
 	h4 {
 		margin: 1rem 0 1rem;
+		color: $color-black;
 	}
 
 	/**

@@ -10,11 +10,11 @@
 - title: Components
   group: components
 
-- title: Downloads
-  url: /downloads.html
-
 - title: Content
   group: guidelines
+
+- title: Downloads
+  url: /downloads.html
 
 - title: Page templates
   group: page-templates
