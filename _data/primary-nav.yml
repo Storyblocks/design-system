@@ -1,8 +1,5 @@
 - title: Welcome
-  url: /
-
-- title: Design Principles
-  url: /design-principles.html
+  group: welcome
 
 - title: Base Styles
   group: styles
