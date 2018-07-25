@@ -3,8 +3,8 @@ layout: component-detail
 group: components
 
 title: Buttons
-description: Buttons are clickable elements used to perform a call to action.
-status: Design Complete
+description: Buttons are are clickable elements used to perform a call to action.
+status: Design complete
 
 variations:
 - title: Button types
