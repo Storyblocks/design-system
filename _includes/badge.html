@@ -11,8 +11,6 @@
 {% else %}
 {% assign badge = "caution" %}
 {% endif %}
-{% elsif status == 'Design complete' %}
-{% assign badge = "caution" %}
 
 {% if status %}
 <span class="c-badge c-badge--{{ badge }}">{{ status }}</span>
