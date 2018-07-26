@@ -18,7 +18,7 @@ Visual style goes here
 #### Buttons on a dark background
 Visual style goes here  
 
----
+<hr>
 
 ### Usage
 
