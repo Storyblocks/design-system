@@ -24,11 +24,11 @@ Visual style goes here
 
 | Button type     | Purpose                                                                          |
 | --------------- |----------------------------------------------------------------------------------|
-| Primary         | For the principle call to action on the page.                                    |
-| Secondary       | When an action does not require primary dominance on the page.                   |
-| Danger          | When an action has harmful intentions to the users data (delete, remove, etc).   |
-| Disabled button | Use when the user cannot proceed until an input is collected.                    |
-| Small Button    | Use when there is not enough vertical space for a regular sized button.          |
+| Primary         | Use for main CTA's. Examples: Sign-up, Get Started.                                 |
+| Secondary       | Use for less critical actions. Examples: Next, Save, Cancel.                |
+| Disabled        | Use when the user cannot proceed until an input is collected.    |
+| Buttons on a dark background | XXX.                    |
+| Big Button    | Use to bring extra attention to a CTA and only use 1 big button on a page. Examples: a CTA on hero-images      |
 
 ### Best Practices
 * Bullet 1
