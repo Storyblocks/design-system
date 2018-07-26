@@ -6,7 +6,6 @@ title: Buttons
 description: Buttons are are clickable elements used to perform a call to action.
 status: Design complete
 ---
-
 #### Primary Buttons
 <div class="u-margin-bottom-double"><a href="{{ "/design-principles.html" | prepend: site.baseurl }}" class="c-btn">Explore</a></div>
 
@@ -18,6 +17,8 @@ Visual style goes here
 
 #### Buttons on a dark background
 Visual style goes here  
+
+---
 
 ### Usage
 
