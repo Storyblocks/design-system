@@ -20,9 +20,8 @@ h1 {
  * Heading 2 base styles
  */
 h2 {
-	font-size: 3em;
+	font-size: 36px;
 	line-height: 1.2;
-	letter-spacing: -0.02rem;
 	margin-bottom: 0.5rem;
 	word-wrap: break-word;
 }
@@ -31,7 +30,14 @@ h2 {
  * Heading 3 base styles
  */
 h3 {
-	font-size: 2em;
+	font-size: 24px;
+	line-height: 1.2;
+	margin-bottom: 0.3rem;
+	word-wrap: break-word;
+}
+
+h4 {
+	font-size: 18px;
 	line-height: 1.2;
 	margin-bottom: 0.3rem;
 	word-wrap: break-word;
