@@ -11,7 +11,7 @@ email: Kyhry@Storyblocks.com
 description: > # this means to ignore newlines until "baseurl:"
   This site aims to provide everything you need to get up to speed quickly when designing for Storyblocks.
 baseurl: "/design-system" # the subpath of your site, e.g. /blog
-url: "https://storyblocks.design" # the base hostname & protocol for your site
+url: "https://storyblocks.github.io/design-system/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
