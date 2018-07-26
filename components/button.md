@@ -7,18 +7,16 @@ description: Buttons are are clickable elements used to perform a call to action
 status: Design complete
 ---
 
-## Design
-
-### Primary Buttons
+#### Primary Buttons
 <div class="u-margin-bottom-double"><a href="{{ "/design-principles.html" | prepend: site.baseurl }}" class="c-btn">Explore</a></div>
 
-### Secondary buttons
+#### Secondary buttons
 Visual style goes here  
 
-### Disabled buttons
+#### Disabled buttons
 Visual style goes here  
 
-### Buttons on a dark background
+#### Buttons on a dark background
 Visual style goes here  
 
 ### Usage
@@ -36,11 +34,11 @@ Visual style goes here
 * Bullet 2
 * Bullet 3
 
-## Content guidelines
+### Content guidelines
 Guidelines goes here
 
-## Code
+### Code
 Code implementation goes here
 
-## When to use something else
-* Use the link component if you want to include an action in a line of text. Example: View our plans & pricing to signup for a plan and get started today. 
+### When to use something else
+* Use the link component if you want to include an action in a line of text. Example: View our plans & pricing to signup for a plan and get started today.
