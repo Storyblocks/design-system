@@ -26,7 +26,7 @@ Visual style goes here
 | --------------- |----------------------------------------------------------------------------------|
 | Primary         | Use for main CTA's. Examples: Sign-up, Get Started.                                 |
 | Secondary       | Use for less critical actions. Examples: Next, Save, Cancel.                |
-| Disabled        | Use when the user cannot proceed until an input is collected.    |
+| Disabled        | Use when the user cannot proceed until an input is collected. The button should become a primary or secondary button after the required input is collected.     |
 | Buttons on a dark background | XXX.                    |
 | Big Button    | Use to bring more attention to a CTA and only use 1 big button on a page. Examples: a CTA on hero-images      |
 
@@ -37,9 +37,7 @@ Visual style goes here
 
 
 ### Content guidelines
-<i class="material-icons">
-done
-</i>
+<i class="material-icons">done</i>
 
 
 ### Code
