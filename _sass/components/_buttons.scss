@@ -149,15 +149,22 @@
 /**
  * 1) Button that is text only and doesn't contain a border or fill.
  */
-.primary-storyblocks-btn {
-	background: none;
-	border: 0;
-	padding: 0;
-	cursor: pointer;
-	border-radius: $border-radius;
-	transition: background $fade-quick $anim-ease;
+ .primary-storyblocks-btn {
+ 	display: inline-block;
+ 	background: $color-yellow;
+ 	border-radius: 2em;
+ 	cursor: pointer;
+ 	color: $color-black;
+ 	line-height: 3;
+ 	font-weight: 700;
+ 	font-size: 16px;
+ 	padding: 0rem 3rem;
+ 	border: 0;
+ 	box-shadow: none; /* 2 */
+ 	text-align: center;
+ 	transition: all $fade-quick ease-out;
 
-	&:hover, &:focus {
-		color: $color-gray-50;
-	}
-}
+ 	&:hover, &:focus {
+ 		background: $color-black;
+ 		color: $color-white;
+ 	}
