@@ -137,3 +137,27 @@
 		color: $color-gray-50;
 	}
 }
+
+
+
+
+
+/*------------------------------------*\
+    Storyblocks buttons
+\*------------------------------------*/
+
+/**
+ * 1) Button that is text only and doesn't contain a border or fill.
+ */
+.primary-storyblocks-btn {
+	background: none;
+	border: 0;
+	padding: 0;
+	cursor: pointer;
+	border-radius: $border-radius;
+	transition: background $fade-quick $anim-ease;
+
+	&:hover, &:focus {
+		color: $color-gray-50;
+	}
+}
