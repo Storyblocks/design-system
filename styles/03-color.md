@@ -29,4 +29,3 @@ description: Color brings a design to life. Color is versatile; it's used to exp
 {% include color-preview.html name="Gray 600" hexcode="#6c757d" %}
 {% include color-preview.html name="Gray 800" hexcode="#343a40" %}
 {% include color-preview.html name="Black" hexcode="#000" %}
-

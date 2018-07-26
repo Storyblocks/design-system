@@ -28,15 +28,19 @@ Visual style goes here
 | Secondary       | Use for less critical actions. Examples: Next, Save, Cancel.                |
 | Disabled        | Use when the user cannot proceed until an input is collected.    |
 | Buttons on a dark background | XXX.                    |
-| Big Button    | Use to bring extra attention to a CTA and only use 1 big button on a page. Examples: a CTA on hero-images      |
+| Big Button    | Use to bring more attention to a CTA and only use 1 big button on a page. Examples: a CTA on hero-images      |
 
 ### Best Practices
-* Bullet 1
-* Bullet 2
-* Bullet 3
+* Aim to only use 1-2 buttons per page. Too many calls to action can cause confusion and make users unsure of what to do next.
+* If you need to use multiple buttons, avoid using more than one yellow button on a page or placing 2 buttons side by side unless they are in contained cards.
+* Use established button colors appropriately. For example, stick to using a yellow button for the Sign-up action.
+
 
 ### Content guidelines
-Guidelines goes here
+<i class="material-icons">
+done
+</i>
+
 
 ### Code
 Code implementation goes here
