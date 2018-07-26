@@ -11,7 +11,10 @@ Good user experience is in our design DNA. We always start with user needs in mi
 Delivering great content is at the heart of what Storyblocks does. Our visual style is clean and minimal so that our content stands out and isn’t overshadowed by unnecessary design elements.
 
 ## Consistent
-We use consistent design patterns, language, and tone to familiarize people with our product which builds trust.
+We use consistent design patterns, language, and tone to build a product that is trustworthy and intuitive to use.
 
 ## Intentional
-Our design choices are deliberate and provide clear paths that enable users to complete tasks quickly and easily.
+Our design choices are deliberate, providing a straightforward path for our users to complete tasks quickly and easily.
+
+## Clarity
+We communicate clearly and honestly so that our users understand our product and can act with confidence.
