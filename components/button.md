@@ -42,4 +42,4 @@ Guidelines goes here
 Code implementation goes here
 
 ### When to use something else
-* Use the link component if you want to include an action in a line of text. Example: View our plans & pricing to signup for a plan and get started today.
+* • Use the link component if you want to include an action in a line of text. Example: View our plans & pricing to signup for a plan and get started today.
