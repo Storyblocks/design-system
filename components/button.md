@@ -6,16 +6,16 @@ title: Buttons
 description: Buttons are are clickable elements used to perform a call to action.
 status: Design complete
 ---
-#### Primary Buttons
+#### Primary
 <div class="c-storyblocks-btn">Primary</div>
-
-#### Secondary buttons
+{' '}
+#### Secondary
 Outline button goes here.
 
-#### Big buttons
+#### Big
 big button goes here.
 
-#### Disabled buttons
+#### Disabled
 Disabled goes here.  
 
 ### Usage
@@ -24,7 +24,7 @@ Disabled goes here.
 | --------------- |----------------------------------------------------------------------------------|
 | Primary         | Use for main CTA's. Examples: Sign-up, Get Started.                                 |
 | Secondary       | Use for less critical actions. Examples: Next, Save, Cancel.                |
-| Big Buttons    | Use to bring attention to a CTA. Only use 1 big button on a page. Example: You can use a big button on a hero image.     |
+| Big     | Use to bring attention to a CTA. Only use 1 big button on a page. Example: You can use a big button on a hero image.     |
 | Disabled        | Use when the user cannot proceed until an input is collected.     |
 
 ### Best practices
