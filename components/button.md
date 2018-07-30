@@ -7,7 +7,7 @@ description: Buttons are clickable elements used to perform a call to action.
 status: Design complete
 ---
 #### Primary
-<div class="c-storyblocks-btn">Primary</div>  
+<div class="u-margin-bottom-double c-storyblocks-btn">Primary</div>  
 
 
 #### Secondary
