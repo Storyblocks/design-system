@@ -32,19 +32,14 @@ Visual style goes here
 
 ### Best Practices
 
-- • Aim to only use 1-2 buttons per page. Too many calls to action can cause confusion and make users unsure of what to do next.
-- • If you need to use multiple buttons, avoid using more than one yellow button on a page or placing 2 buttons side by side unless they are in contained cards.
-- • Use established button colors appropriately. For example, stick to using a yellow button for the Sign-up action.
-
+  - Aim to only use 1-2 buttons per page. Too many calls to action can cause confusion and make users unsure of what to do next.
+  - If you need to use multiple buttons, avoid using more than one yellow button on a page or placing 2 buttons side by side unless they are in contained cards.
+  - Use established button colors appropriately. For example, stick to using a yellow button for the Sign-up action.
 
 ### Content guidelines
-Button labels should be descriptive and predictable. Also, make the first word of the button's label a verb. Examples:
-
-  - <i class="material-icons">done</i> View all videos
-  - <i class="material-icons">done</i> Load more videos
-  - <i class="material-icons">done</i> Download videos
-
-Use sentence case for button labels.
+  - <i class="material-icons">done</i> Use sentence case for button labels.
+  - <i class="material-icons">done</i> Button labels should be descriptive and predictable. Also, make the first word of the button's label a verb. Examples: View all videos, Load more videos, Download videos
+  - <i class="material-icons">close</i> Do not use labels that don't provide any context. Examples: Videos, Load more, Download
 
 ### Code
 Code implementation goes here
