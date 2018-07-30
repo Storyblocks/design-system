@@ -26,9 +26,9 @@ Visual style goes here
 | --------------- |----------------------------------------------------------------------------------|
 | Primary         | Use for main CTA's. Examples: Sign-up, Get Started.                                 |
 | Secondary       | Use for less critical actions. Examples: Next, Save, Cancel.                |
-| Disabled        | Use when the user cannot proceed until an input is collected. The button should become a primary or secondary button after the required input is collected.     |
+| Disabled        | Use when the user cannot proceed until an input is collected.     |
 | Buttons on a dark background | XXX.                    |
-| Big Button    | Use to bring attention to a CTA and only use 1 big button on a page. Examples: use on hero-images.     |
+| Big Button    | Use to bring attention to a CTA. Only use 1 big button on a page. Example: You can use a big button on a hero image     |
 
 ### Best Practices
 
@@ -40,9 +40,9 @@ Visual style goes here
 ### Content guidelines
 Button labels should be descriptive and predictable. Also, make the first word of the button's label a verb. Examples:
 
-<i class="material-icons">done</i> View all videos
-<i class="material-icons">done</i> Load more videos
-<i class="material-icons">done</i> Download videos
+  - <i class="material-icons">done</i> View all videos
+  - <i class="material-icons">done</i> Load more videos
+  - <i class="material-icons">done</i> Download videos
 
 Use sentence case for button labels.
 
