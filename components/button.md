@@ -9,7 +9,6 @@ status: Design complete
 #### Primary
 <div class="u-margin-bottom-double c-storyblocks-btn">Primary</div>  
 
-
 #### Secondary
 Outline buttons goes here.
 
