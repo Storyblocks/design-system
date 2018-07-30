@@ -3,12 +3,13 @@ layout: component-detail
 group: components
 
 title: Buttons
-description: Buttons are are clickable elements used to perform a call to action.
+description: Buttons are clickable elements used to perform a call to action.
 status: Design complete
 ---
 #### Primary
-<div class="c-storyblocks-btn">Primary</div>
-{' '}
+<div class="c-storyblocks-btn">Primary</div>  
+ \\
+
 #### Secondary
 Outline button goes here.
 
