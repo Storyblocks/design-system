@@ -10,7 +10,7 @@ status: Design complete
 <div class="u-margin-bottom-double"><a href="{{ "/design-principles.html" | prepend: site.baseurl }}" class="c-btn">Explore</a></div>
 
 #### Secondary buttons
-Visual style goes here  
+<div class="c-btn">Secondary</a></div>
 
 #### Disabled buttons
 Visual style goes here  
@@ -34,9 +34,9 @@ Visual style goes here
   - • Use established button colors appropriately. For example, stick to using a yellow button for the Sign-up action.
 
 ### Content guidelines
-  - <i class="material-icons">done</i> Use sentence case for button labels.
-  - <i class="material-icons">done</i> Button labels should be descriptive and predictable. Also, make the first word of the button's label a verb. Examples: View all videos, Load more videos, Download videos
-  - <i class="material-icons">close</i> Do not use labels that don't provide any context. Examples: Videos, Load more, Download
+  - • Use sentence case for button labels.
+  - • Button labels should be descriptive and predictable. Also, make the first word of the button's label a verb. Examples: View all videos, Load more videos, Download videos
+  - • Do not use labels that don't provide any context. Examples: Videos, Load more, Download
 
 ### Code
 Code implementation goes here
