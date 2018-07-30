@@ -146,16 +146,18 @@
     #STORYBLOCKS BUTTONS
 \*------------------------------------*/
 
-
-
-
-.sb-btn {
-	color: #000;
-	background-color: #ffe121;
-	border-color: #ffe121;
+.c-primarybtn {
+	display: inline-block;
+	background: $color-yellow;
 	border-radius: 2em;
-	box-shadow: none;
+	cursor: pointer;
+	color: $color-black;
+	line-height: 32px;
+	font-weight: 700;
+	font-size: 16px;
+	padding: 7px 12px;
+	border: 0;
+	box-shadow: none; /* 2 */
+	text-align: center;
 	transition: color .25s ease,background-color .25s ease,border-color .25s ease;
-	padding-left: 1.5em;
-	padding-right: 1.5em;
 }
