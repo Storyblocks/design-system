@@ -18,8 +18,6 @@ Visual style goes here
 #### Buttons on a dark background
 Visual style goes here  
 
-<hr>
-
 ### Usage
 
 | Button type     | Purpose                                                                          |
@@ -31,11 +29,10 @@ Visual style goes here
 | Big Button    | Use to bring attention to a CTA. Only use 1 big button on a page. Example: You can use a big button on a hero image     |
 
 ### Best Practices
+  - • Aim to only use 1-2 buttons per page. Too many calls to action can cause confusion and make users unsure of what to do next.
+  - • If you need to use multiple buttons, avoid using more than one yellow button on a page or placing 2 buttons side by side unless they are in contained cards.
+  - • Use established button colors appropriately. For example, stick to using a yellow button for the Sign-up action.
 
-  - * Aim to only use 1-2 buttons per page. Too many calls to action can cause confusion and make users unsure of what to do next.
-  - * If you need to use multiple buttons, avoid using more than one yellow button on a page or placing 2 buttons side by side unless they are in contained cards.
-  - * Use established button colors appropriately. For example, stick to using a yellow button for the Sign-up action.
-<b
 ### Content guidelines
   - <i class="material-icons">done</i> Use sentence case for button labels.
   - <i class="material-icons">done</i> Button labels should be descriptive and predictable. Also, make the first word of the button's label a verb. Examples: View all videos, Load more videos, Download videos
@@ -45,4 +42,4 @@ Visual style goes here
 Code implementation goes here
 
 ### When to use something else
- - * Use the link component if you want to include an action in a line of text. Example: View our plans & pricing to signup for a plan and get started today.
+ - • Use the link component if you want to include an action in a line of text. Example: View our plans & pricing to signup for a plan and get started today.
