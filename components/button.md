@@ -11,13 +11,13 @@ status: Design complete
  \\
 
 #### Secondary
-Outline button goes here.
+Outline buttons goes here.
 
 #### Big
-big button goes here.
+big buttons goes here.
 
 #### Disabled
-Disabled goes here.  
+Disabled buttons goes here.  
 
 ### Usage
 
