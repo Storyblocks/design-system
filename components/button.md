@@ -8,7 +8,7 @@ status: Design complete
 ---
 #### Primary
 
-<p data-height="265" data-theme-id="dark" data-slug-hash="NBYBNx" data-default-tab="css" data-user="kyhryt" data-pen-title="NBYBNx" class="codepen">See the Pen <a href="https://codepen.io/kyhryt/pen/NBYBNx/">NBYBNx</a> by kyhryt (<a href="https://codepen.io/kyhryt">@kyhryt</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="193" data-theme-id="dark" data-slug-hash="NBYBNx" data-default-tab="result" data-user="kyhryt" data-pen-title="NBYBNx" class="codepen">See the Pen <a href="https://codepen.io/kyhryt/pen/NBYBNx/">NBYBNx</a> by kyhryt (<a href="https://codepen.io/kyhryt">@kyhryt</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 #### Secondary
