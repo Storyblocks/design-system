@@ -7,6 +7,10 @@ description: Buttons are clickable elements used to perform a call to action.
 status: Design complete
 ---
 #### Primary
+
+<p data-height="265" data-theme-id="light" data-slug-hash="NBYBNx" data-default-tab="css,result" data-user="kyhryt" data-pen-title="NBYBNx" class="codepen">See the Pen <a href="https://codepen.io/kyhryt/pen/NBYBNx/">NBYBNx</a> by kyhryt (<a href="https://codepen.io/kyhryt">@kyhryt</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 <div class="u-margin-bottom-double c-storyblocks-btn">Primary</div>  
 
 #### Secondary
