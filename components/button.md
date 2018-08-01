@@ -38,8 +38,6 @@ Disabled buttons goes here.
   - • Use sentence case for button labels.
   - • Button labels should be descriptive and predictable. Also, make the first word of the button's label a verb. Examples: View all videos, Load more videos, Download videos. Do not use labels that don't provide any context. Examples: Videos, Load more, Download
 
-### Code
-Code implementation goes here
 
 ### When to use something else
   - • Use the link component if you want to include an action in a line of text. Example: View our plans & pricing to signup for a plan and get started today.
