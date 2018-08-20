@@ -27,13 +27,13 @@ status: Design complete
 #### New feature announcements should:
 * Always be dismissible. Once dismissed, they should never be shown again.
 * Use the pointer arrow to point to the new feature, whenever possible. The arrow can appear on the left, right, top, or bottom of the box but should always be centered.
-* Always include the NEW FEATURE tag directly above the text.
-#### Visual requirements:
-* The box background color should always be Storyblocks Blue.
-* The NEW FEATURE tag background color should always be white with black text.
 #### New feature announcements should not:
 * Use any photos or images, only simple illustrations are acceptable.
-* Use headlines (H1, H2, etc.). However, you can bold the copy that explains the new feature. For example, Save your favorite content and organize them into folders. Simple mouse over any image and click the heart icon.
+* Use headlines (H1, H2, etc.). However, you can bold the copy that explains the new feature. 
+#### Visual requirements:
+* The box background color should always be Storyblocks Blue.
+* Always include the NEW FEATURE tag directly above the text.
+* The NEW FEATURE tag background color should always be white with black text.
 <dl>
 <br>
 </dl>
