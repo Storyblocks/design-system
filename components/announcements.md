@@ -20,6 +20,9 @@ status: Design complete
 | Example with text + icon (Default)         | Use to callout a new feature and to briefly explain how to use it.                                 |
 | Example with text + graphic       | Use whenever you can't point to the new feature and need to include a visual representation to show how to use the feature.                |
 
+<dl>
+<br>
+</dl>
 ### Best practices
 #### New feature announcements should:
 * Always be dismissible. Once dismissed, they should never be shown again.
@@ -31,8 +34,9 @@ status: Design complete
 #### New feature announcements should not:
 * Use any photos or images, only simple illustrations are acceptable.
 * Use headlines (H1, H2, etc.). However, you can bold the copy that explains the new feature. For example, Save your favorite content and organize them into folders. Simple mouse over any image and click the heart icon.
-&nbsp;
-&nbsp;
+<dl>
+<br>
+</dl>
 ### Content guidelines
 * Be concise and scannable — users shouldn’t need to spend a lot of time figuring out what the feature is and how to use it.
 * The max character length is 1024 characters.
