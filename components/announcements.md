@@ -19,12 +19,13 @@ status: Design complete
 | --------------- |----------------------------------------------------------------------------------|
 | Example with text + icon (Default)         | Use to callout a new feature and to briefly explain how to use it.                                 |
 | Example with text + graphic       | Use whenever you can't point to the new feature and need to include a visual representation to show how to use the feature.                |
-<dl>
-</dl>
+
 ### Best practices
 #### New feature announcements should:
-* Start a line with a star
-* Profit!
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 * - Be used thoughtfully and sparingly, only for new features that will add great value to users.
 * - Always be dismissible. Once dismissed, they should never be shown again.
 * - Use the pointer arrow to point to the new feature, whenever possible. The arrow can appear on the left, right, top, or bottom of the box but should always be centered.
