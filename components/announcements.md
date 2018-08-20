@@ -25,7 +25,7 @@ status: Design complete
 * - Be used thoughtfully and sparingly, only for new features that will add great value to users.
 * - Always be dismissible. Once dismissed, they should never be shown again.
 
-⋅⋅* Unordered sub-list.
+
   - • Be used thoughtfully and sparingly, only for new features that will add great value to users.
   - • Always be dismissible. Once dismissed, they should never be shown again.
   - • Use the pointer arrow to point to the new feature, whenever possible. The arrow can appear on the left, right, top, or bottom of the box but should always be centered.
