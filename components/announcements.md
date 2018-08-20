@@ -22,8 +22,8 @@ status: Design complete
 
 ### Best practices
 #### New feature announcements should:
-* Unordered list can use asterisks
-* Unordered list can use asterisks
+* - Be used thoughtfully and sparingly, only for new features that will add great value to users.
+* - Always be dismissible. Once dismissed, they should never be shown again.
 
 ⋅⋅* Unordered sub-list.
   - • Be used thoughtfully and sparingly, only for new features that will add great value to users.
@@ -33,7 +33,9 @@ status: Design complete
   #### Visual requirements:
   - • The box background color should always be Storyblocks Blue.
   - • The NEW FEATURE tag background color should always be white with black text.
-
+  <dl>
+<br>
+  </dl>
 #### New feature announcements should not:
 - • Use any photos or images, only simple illustrations are acceptable.
 - • Use headlines (H1, H2, etc.). However, you can bold the copy that explains the new feature. For example, Save your favorite content and organize them into folders. Simple mouse over any image and click the heart icon.
