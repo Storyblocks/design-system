@@ -32,6 +32,7 @@ status: Design complete
 * Use any photos or images, only simple illustrations are acceptable.
 * Use headlines (H1, H2, etc.). However, you can bold the copy that explains the new feature. For example, Save your favorite content and organize them into folders. Simple mouse over any image and click the heart icon.
 &nbsp;
+&nbsp;
 ### Content guidelines
 * Be concise and scannable — users shouldn’t need to spend a lot of time figuring out what the feature is and how to use it.
 * The max character length is 1024 characters.
