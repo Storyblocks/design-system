@@ -2,7 +2,7 @@
 layout: component-detail
 group: components
 
-title: New feature 
+title: New feature announcement
 description: Announcements are used to inform users about new features or important site updates. They’re one of the most prominent ways to grab users attention.
 status: Design complete
 ---
