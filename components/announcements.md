@@ -24,25 +24,22 @@ status: Design complete
 #### New feature announcements should:
 * - Be used thoughtfully and sparingly, only for new features that will add great value to users.
 * - Always be dismissible. Once dismissed, they should never be shown again.
-
-
-  - • Be used thoughtfully and sparingly, only for new features that will add great value to users.
-  - • Always be dismissible. Once dismissed, they should never be shown again.
-  - • Use the pointer arrow to point to the new feature, whenever possible. The arrow can appear on the left, right, top, or bottom of the box but should always be centered.
-  - • Always include the NEW FEATURE tag directly above the text.
-  #### Visual requirements:
-  - • The box background color should always be Storyblocks Blue.
-  - • The NEW FEATURE tag background color should always be white with black text.
-  <dl>
-<br>
-  </dl>
+* - Use the pointer arrow to point to the new feature, whenever possible. The arrow can appear on the left, right, top, or bottom of the box but should always be centered.
+* - Always include the NEW FEATURE tag directly above the text.
+#### Visual requirements:
+* - The box background color should always be Storyblocks Blue.
+* - he NEW FEATURE tag background color should always be white with black text.
 #### New feature announcements should not:
 - • Use any photos or images, only simple illustrations are acceptable.
 - • Use headlines (H1, H2, etc.). However, you can bold the copy that explains the new feature. For example, Save your favorite content and organize them into folders. Simple mouse over any image and click the heart icon.
-
+<dl>
+<br>
+</dl>
 ### Content guidelines
   - • Be concise and scannable — users shouldn’t need to spend a lot of time figuring out what the feature is and how to use it.
   - • The max character length is 1024 characters.
-
+  <dl>
+<br>
+  </dl>
 ### When to use something else
   - • This component should only be used to call out new features. Similar components: Information hover announcement.  
