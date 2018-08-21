@@ -9,6 +9,12 @@ status: Design complete
 
 ## New feature announcement
 
+#### Example with text + graphic
+<p data-height="511" data-theme-id="light" data-slug-hash="zLQOYO" data-default-tab="html,result" data-user="storyblocks" data-pen-title="Feature Announcement" class="codepen">See the Pen <a href="https://codepen.io/storyblocks/pen/zLQOYO/">Feature Announcement</a> by Kyhry (<a href="https://codepen.io/storyblocks">@storyblocks</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+### Usage
+
 | Examples     | Purpose                                                                          |
 | --------------- |----------------------------------------------------------------------------------|
 | Example with text + icon (Default)         | Use to callout a new feature and to briefly explain how to use it.                                 |
@@ -17,12 +23,6 @@ status: Design complete
 <dl>
 <br>
 </dl>
-
-#### Example with text + graphic
-<p data-height="511" data-theme-id="light" data-slug-hash="zLQOYO" data-default-tab="html,result" data-user="storyblocks" data-pen-title="Feature Announcement" class="codepen">See the Pen <a href="https://codepen.io/storyblocks/pen/zLQOYO/">Feature Announcement</a> by Kyhry (<a href="https://codepen.io/storyblocks">@storyblocks</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-
 ### Best practices
 #### New feature announcements should:
 * Be used thoughtfully and sparingly, only for new features that will add great value to users.
