@@ -10,7 +10,7 @@ status: Design complete
 ## New feature announcement
 
 #### Example with text + graphic
-<iframe width="100%" height="100%" src="//jsfiddle.net/tjgzqovh/1/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="600px" src="//jsfiddle.net/tjgzqovh/1/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ### Usage
 
