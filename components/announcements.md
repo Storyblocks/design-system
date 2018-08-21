@@ -10,8 +10,7 @@ status: Design complete
 ## New feature announcement
 
 #### Example with text + graphic
-<p data-height="500" data-theme-id="light" data-slug-hash="zLQOYO" data-default-tab="result" data-user="storyblocks" data-pen-title="Feature Announcement" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/storyblocks/pen/zLQOYO/">Feature Announcement</a> by Kyhry (<a href="https://codepen.io/storyblocks">@storyblocks</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<script async src="//jsfiddle.net/tjgzqovh/embed/result/"></script>
 
 
 ### Usage
